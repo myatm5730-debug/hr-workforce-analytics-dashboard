@@ -1,0 +1,501 @@
+emp_id,name,gender,age,age_group,total_experience,department,job_title,base_salary,salary_slab,hire_date,employment_status,attrition,attrition_count,exit_date,job_satisfaction,performance_rating,education,employment_type
+1001,Zaw Tun,Male,27,26-35,3,HR,HR Payroll Executive,1281425,1M - 2M MMK,2021-10-13,Active,No,0,,3,1,Bachelor's,Full-Time
+1002,Nilar Ko,Female,21,18-25,1,Engineering,Software Engineer,1840970,1M - 2M MMK,2024-12-07,Active,No,0,,3,4,Bachelor's,Full-Time
+1003,Ko Myint,Male,38,36-45,15,Sales,Account Executive,1336184,1M - 2M MMK,2025-04-13,Active,No,0,,3,4,Diploma,Full-Time
+1004,Thura Win,Male,36,36-45,10,HR,HR Payroll Executive,1547379,1M - 2M MMK,2024-06-20,Active,No,0,,2,2,Diploma,Full-Time
+1005,Wai Oo,Male,29,26-35,5,Finance,Junior Accountant,671478,< 1M MMK,2023-07-18,Active,No,0,,3,5,Diploma,Full-Time
+1006,Zaw Aung,Male,40,36-45,17,Engineering,Software Engineer,1531505,1M - 2M MMK,2023-02-17,Active,No,0,,3,3,Master's,Full-Time
+1007,Thet Lwin,Male,39,36-45,16,Finance,Junior Accountant,768147,< 1M MMK,2023-04-02,Active,No,0,,3,3,Master's,Contract
+1008,Zaw Htun,Male,53,46-55,22,Finance,Finance Analyst,1423305,1M - 2M MMK,2025-03-06,Active,No,0,,3,4,Master's,Full-Time
+1009,Zayar Nwe,Male,37,36-45,9,Operations,Ops Coordinator,640488,< 1M MMK,2025-10-30,Resigned,Yes,1,2026-06-07,1,5,Diploma,Full-Time
+1010,Yamin Ko,Female,26,26-35,4,Marketing,Content Creator,683159,< 1M MMK,2024-01-05,Active,No,0,,3,3,Bachelor's,Full-Time
+1011,Soe Swe,Male,31,26-35,8,Engineering,Software Engineer,1724301,1M - 2M MMK,2021-08-06,Active,No,0,,2,4,Diploma,Contract
+1012,Win Nwe,Male,45,36-45,21,HR,HR Payroll Executive,1392315,1M - 2M MMK,2021-08-18,Active,No,0,,4,3,Bachelor's,Full-Time
+1013,Ei Oo,Female,43,36-45,20,HR,HR Manager,2964020,2M - 3M MMK,2025-04-07,Active,No,0,,2,3,Diploma,Full-Time
+1014,Myo Aye,Male,43,36-45,18,Marketing,Marketing Specialist,1092055,1M - 2M MMK,2023-03-29,Active,No,0,,3,3,Bachelor's,Full-Time
+1015,Min San,Male,37,36-45,9,HR,HR Officer,995358,< 1M MMK,2021-01-15,Resigned,Yes,1,2025-01-26,1,3,Master's,Full-Time
+1016,Myo Aye,Male,36,36-45,9,Finance,Finance Manager,2758137,2M - 3M MMK,2023-08-27,Active,No,0,,2,3,Master's,Full-Time
+1017,Sandar Lwin,Female,38,36-45,11,Marketing,Content Creator,552728,< 1M MMK,2025-01-31,Active,No,0,,3,3,Master's,Full-Time
+1018,Sandar Oo,Female,30,26-35,8,Operations,Ops Coordinator,504738,< 1M MMK,2024-01-13,Active,No,0,,4,4,Bachelor's,Full-Time
+1019,May Moe,Female,33,26-35,9,Operations,Ops Coordinator,526692,< 1M MMK,2021-01-05,Active,No,0,,3,5,Diploma,Full-Time
+1020,May Zaw,Female,48,46-55,21,Finance,Finance Analyst,1464292,1M - 2M MMK,2021-04-30,Active,No,0,,3,2,Diploma,Full-Time
+1021,Win Nwe,Male,37,36-45,14,Finance,Junior Accountant,803577,< 1M MMK,2021-06-14,Active,No,0,,3,5,Diploma,Full-Time
+1022,Nilar Lwin,Female,36,36-45,10,Engineering,Junior Developer,942055,< 1M MMK,2024-04-10,Active,No,0,,3,3,Master's,Full-Time
+1023,Hnin Zaw,Female,42,36-45,19,Marketing,Digital Marketing Lead,1696045,1M - 2M MMK,2026-03-18,Active,No,0,,4,2,Bachelor's,Full-Time
+1024,Zayar Hlaing,Male,38,36-45,13,HR,HR Officer,926401,< 1M MMK,2021-11-20,Active,No,0,,3,5,Diploma,Full-Time
+1025,Bo Aye,Male,45,36-45,15,Sales,Sales Rep,614312,< 1M MMK,2021-10-03,Active,No,0,,3,3,Master's,Full-Time
+1026,Zaw Swe,Male,26,26-35,3,Engineering,Tech Lead,4149148,3M+ MMK,2026-02-03,Active,No,0,,3,3,Bachelor's,Full-Time
+1027,Zayar Swe,Male,49,46-55,23,Finance,Finance Manager,3060646,3M+ MMK,2023-05-26,Active,No,0,,2,1,Master's,Full-Time
+1028,Zayar Myint,Male,47,46-55,24,Finance,Junior Accountant,655128,< 1M MMK,2026-01-16,Active,No,0,,1,3,Diploma,Full-Time
+1029,Thura Hlaing,Male,49,46-55,24,Engineering,Tech Lead,5211540,3M+ MMK,2025-03-15,Resigned,Yes,1,2026-01-10,3,1,Diploma,Contract
+1030,Yin Myint,Female,21,18-25,1,Marketing,Marketing Specialist,943712,< 1M MMK,2025-06-01,Active,No,0,,1,3,Bachelor's,Full-Time
+1031,Phyu Hlaing,Female,27,26-35,5,Sales,Senior Sales Rep,831319,< 1M MMK,2024-09-13,Active,No,0,,3,3,Master's,Full-Time
+1032,Mon Aye,Female,49,46-55,26,Sales,Sales Rep,470184,< 1M MMK,2022-06-19,Active,No,0,,3,2,Master's,Full-Time
+1033,Yin San,Female,43,36-45,17,Operations,Ops Coordinator,569150,< 1M MMK,2024-03-26,Active,No,0,,4,3,Diploma,Full-Time
+1034,Myo Hlaing,Male,37,36-45,11,Operations,Ops Coordinator,677658,< 1M MMK,2026-03-01,Active,No,0,,4,4,Master's,Full-Time
+1035,Bo Myint,Male,31,26-35,8,Sales,Sales Manager,3432068,3M+ MMK,2024-02-10,Resigned,Yes,1,2025-10-12,1,3,Master's,Full-Time
+1036,Aung Kyaw,Male,28,26-35,4,Sales,Senior Sales Rep,892891,< 1M MMK,2024-04-02,Active,No,0,,3,3,Diploma,Full-Time
+1037,Mya Aung,Male,27,26-35,5,Marketing,Content Creator,599595,< 1M MMK,2024-09-21,Active,No,0,,3,3,Bachelor's,Full-Time
+1038,Kyaw Naing,Male,47,46-55,17,Operations,Ops Coordinator,582667,< 1M MMK,2025-12-20,Active,No,0,,3,3,Bachelor's,Full-Time
+1039,Naing Ko,Male,32,26-35,7,HR,HR Manager,2441485,2M - 3M MMK,2025-07-05,Active,No,0,,4,3,Master's,Full-Time
+1040,Yamin Thant,Female,34,26-35,9,Sales,Sales Manager,3343284,3M+ MMK,2025-01-13,Active,No,0,,4,3,Bachelor's,Full-Time
+1041,May Htun,Female,23,18-25,1,Sales,Senior Sales Rep,1014859,1M - 2M MMK,2022-07-22,Active,No,0,,2,3,Master's,Full-Time
+1042,Mya Aye,Male,33,26-35,10,HR,HR Officer,857511,< 1M MMK,2023-02-24,Active,No,0,,2,3,Diploma,Full-Time
+1043,Kyaw Moe,Male,51,46-55,24,Operations,Ops Manager,2920064,2M - 3M MMK,2024-04-11,Active,No,0,,3,5,Master's,Full-Time
+1044,Sandar Myint,Female,37,36-45,9,Engineering,Software Engineer,1713408,1M - 2M MMK,2022-07-13,Active,No,0,,3,3,Master's,Full-Time
+1045,Mon Htun,Female,46,46-55,16,Finance,Junior Accountant,791326,< 1M MMK,2024-04-27,Active,No,0,,3,2,Master's,Full-Time
+1046,Phyu San,Female,36,36-45,13,Sales,Sales Manager,2992169,2M - 3M MMK,2025-08-31,Active,No,0,,3,4,Bachelor's,Contract
+1047,Thandar Naing,Female,40,36-45,11,Marketing,Content Creator,704058,< 1M MMK,2024-08-27,Resigned,Yes,1,2025-03-26,1,2,Diploma,Full-Time
+1048,Myo Htun,Male,33,26-35,11,Marketing,Digital Marketing Lead,1869462,1M - 2M MMK,2021-12-10,Active,No,0,,3,4,Bachelor's,Contract
+1049,Thura Thu,Male,24,18-25,1,HR,HR Payroll Executive,1431987,1M - 2M MMK,2026-02-03,Active,No,0,,3,3,Bachelor's,Full-Time
+1050,Wai Thant,Male,42,36-45,13,HR,HR Assistant,612912,< 1M MMK,2023-05-28,Active,No,0,,3,1,Master's,Full-Time
+1051,Thura Myint,Male,23,18-25,1,Sales,Sales Manager,3442674,3M+ MMK,2023-06-11,Active,No,0,,4,4,Master's,Full-Time
+1052,Soe Thu,Male,33,26-35,8,Sales,Account Executive,1677339,1M - 2M MMK,2025-08-29,Active,No,0,,3,4,Diploma,Full-Time
+1053,Hnin San,Female,31,26-35,6,HR,HR Manager,2994583,2M - 3M MMK,2022-01-08,Active,No,0,,3,4,Diploma,Full-Time
+1054,Myo Oo,Male,39,36-45,13,Finance,Finance Manager,2998806,2M - 3M MMK,2025-04-02,Active,No,0,,3,3,Bachelor's,Full-Time
+1055,Tin Win,Male,28,26-35,6,Marketing,Marketing Specialist,956813,< 1M MMK,2024-04-06,Active,No,0,,3,3,Master's,Full-Time
+1056,Htet Naing,Male,32,26-35,9,HR,HR Officer,909397,< 1M MMK,2025-03-02,Active,No,0,,2,3,Master's,Full-Time
+1057,Ei Nwe,Female,35,26-35,8,Engineering,Senior Engineer,3480900,3M+ MMK,2025-09-02,Active,No,0,,3,3,Bachelor's,Full-Time
+1058,Naing Zaw,Male,39,36-45,13,Marketing,Marketing Director,3275669,3M+ MMK,2021-01-26,Active,No,0,,3,2,Bachelor's,Full-Time
+1059,Sandar Khaing,Female,33,26-35,10,HR,HR Assistant,624148,< 1M MMK,2021-06-01,Active,No,0,,4,2,Bachelor's,Full-Time
+1060,Thet Myint,Male,30,26-35,6,Engineering,Software Engineer,1874388,1M - 2M MMK,2023-02-19,Active,No,0,,4,5,Master's,Full-Time
+1061,Kyaw Thant,Male,34,26-35,8,Marketing,Content Creator,738993,< 1M MMK,2022-03-02,Active,No,0,,3,2,Master's,Full-Time
+1062,Nilar Khaing,Female,38,36-45,15,Sales,Sales Rep,490508,< 1M MMK,2024-12-18,Active,No,0,,2,3,Master's,Full-Time
+1063,Zaw Thu,Male,38,36-45,11,Marketing,Marketing Specialist,996358,< 1M MMK,2024-01-21,Active,No,0,,2,4,Diploma,Full-Time
+1064,Ei Kyaw,Female,40,36-45,17,Operations,Ops Coordinator,585224,< 1M MMK,2022-09-15,Active,No,0,,3,3,Bachelor's,Full-Time
+1065,Mya Myint,Male,40,36-45,17,Marketing,Digital Marketing Lead,1778079,1M - 2M MMK,2021-02-22,Resigned,Yes,1,2025-06-01,4,3,Master's,Full-Time
+1066,Thet Aung,Male,26,26-35,3,Operations,Ops Manager,2929501,2M - 3M MMK,2022-01-07,Active,No,0,,4,5,Master's,Full-Time
+1067,Su San,Female,23,18-25,1,Marketing,Content Creator,720123,< 1M MMK,2022-11-07,Active,No,0,,4,1,Bachelor's,Full-Time
+1068,Su Tun,Female,35,26-35,8,Operations,Ops Coordinator,621599,< 1M MMK,2024-01-17,Active,No,0,,3,3,Master's,Full-Time
+1069,Thet Lwin,Male,41,36-45,12,Finance,Finance Analyst,1638340,1M - 2M MMK,2026-03-15,Active,No,0,,3,4,Diploma,Full-Time
+1070,Yamin Ko,Female,28,26-35,5,Engineering,Tech Lead,3917017,3M+ MMK,2025-09-20,Active,No,0,,2,4,Master's,Contract
+1071,Wai Nwe,Male,35,26-35,10,Marketing,Digital Marketing Lead,1672674,1M - 2M MMK,2023-09-16,Active,No,0,,4,3,Bachelor's,Contract
+1072,Htet Myint,Male,45,36-45,21,Sales,Account Executive,1662069,1M - 2M MMK,2022-08-03,Active,No,0,,3,3,Bachelor's,Full-Time
+1073,May Hlaing,Female,40,36-45,13,Sales,Sales Manager,3178111,3M+ MMK,2022-10-22,Active,No,0,,4,3,Master's,Full-Time
+1074,Naing Win,Male,34,26-35,9,Operations,Logistics Specialist,912360,< 1M MMK,2021-03-17,Resigned,Yes,1,2025-01-03,1,4,Bachelor's,Full-Time
+1075,Phyu Ko,Female,47,46-55,18,Marketing,Marketing Specialist,991317,< 1M MMK,2024-09-02,Active,No,0,,3,3,Bachelor's,Contract
+1076,Sandar Aye,Female,41,36-45,18,Operations,Ops Supervisor,1343255,1M - 2M MMK,2025-12-23,Active,No,0,,1,2,Diploma,Full-Time
+1077,Wai Naing,Male,33,26-35,7,Marketing,Content Creator,631134,< 1M MMK,2021-07-21,Active,No,0,,3,1,Master's,Full-Time
+1078,Wai Hlaing,Male,31,26-35,8,Sales,Sales Manager,2852848,2M - 3M MMK,2023-12-24,Active,No,0,,2,2,Diploma,Contract
+1079,Nilar Naing,Female,34,26-35,11,Operations,Logistics Specialist,834076,< 1M MMK,2024-07-30,Active,No,0,,4,3,Bachelor's,Full-Time
+1080,Thandar Thu,Female,36,36-45,10,Sales,Sales Manager,3424829,3M+ MMK,2023-07-25,Active,No,0,,3,3,Bachelor's,Full-Time
+1081,Thandar Thu,Female,33,26-35,10,Sales,Account Executive,1270750,1M - 2M MMK,2025-08-27,Active,No,0,,3,1,Diploma,Full-Time
+1082,Mon Kyaw,Female,45,36-45,20,Finance,Finance Analyst,1464977,1M - 2M MMK,2022-01-25,Active,No,0,,3,3,Bachelor's,Full-Time
+1083,Mya Lwin,Male,40,36-45,16,Sales,Sales Manager,2735032,2M - 3M MMK,2023-01-18,Active,No,0,,2,2,Diploma,Contract
+1084,Thandar Nwe,Female,38,36-45,15,Engineering,Senior Engineer,3333863,3M+ MMK,2022-06-11,Active,No,0,,4,3,Master's,Full-Time
+1085,Phyu Oo,Female,22,18-25,1,Finance,Accountant,1201049,1M - 2M MMK,2025-01-23,Active,No,0,,2,3,Master's,Full-Time
+1086,Phyu Hlaing,Female,44,36-45,16,Marketing,Digital Marketing Lead,1767353,1M - 2M MMK,2025-08-12,Active,No,0,,3,3,Diploma,Contract
+1087,Yamin San,Female,40,36-45,14,Engineering,Software Engineer,1802685,1M - 2M MMK,2024-07-25,Active,No,0,,2,5,Master's,Contract
+1088,Thura Tun,Male,31,26-35,8,Finance,Accountant,1036026,1M - 2M MMK,2023-01-30,Active,No,0,,4,3,Diploma,Full-Time
+1089,Mya Myint,Male,36,36-45,10,Marketing,Content Creator,715075,< 1M MMK,2024-06-14,Active,No,0,,3,5,Master's,Full-Time
+1090,Bo Hlaing,Male,34,26-35,8,Engineering,Senior Engineer,2579339,2M - 3M MMK,2022-07-20,Active,No,0,,4,3,Diploma,Full-Time
+1091,Zaw Thant,Male,36,36-45,13,HR,HR Assistant,705226,< 1M MMK,2022-05-14,Active,No,0,,3,3,Bachelor's,Full-Time
+1092,Zayar Thant,Male,29,26-35,6,HR,HR Payroll Executive,1560574,1M - 2M MMK,2021-10-24,Active,No,0,,4,2,Bachelor's,Full-Time
+1093,Thandar Naing,Female,21,18-25,1,Engineering,Senior Engineer,2535465,2M - 3M MMK,2022-06-28,Resigned,Yes,1,2025-05-05,2,3,Bachelor's,Full-Time
+1094,Tin Thant,Male,32,26-35,9,HR,HR Payroll Executive,1378409,1M - 2M MMK,2021-03-05,Resigned,Yes,1,2024-05-08,1,2,Diploma,Contract
+1095,Min Oo,Male,24,18-25,2,Sales,Senior Sales Rep,784540,< 1M MMK,2022-07-18,Active,No,0,,3,3,Diploma,Full-Time
+1096,Thura Tun,Male,28,26-35,5,Marketing,Marketing Specialist,997998,< 1M MMK,2025-12-24,Active,No,0,,3,3,Bachelor's,Full-Time
+1097,Su Swe,Female,42,36-45,18,Sales,Senior Sales Rep,969329,< 1M MMK,2023-08-30,Resigned,Yes,1,2026-06-26,1,2,Bachelor's,Full-Time
+1098,Yamin Aye,Female,39,36-45,15,Sales,Sales Rep,521891,< 1M MMK,2025-11-25,Active,No,0,,4,4,Master's,Full-Time
+1099,Thandar Tun,Female,47,46-55,18,Engineering,Software Engineer,1526648,1M - 2M MMK,2023-09-15,Active,No,0,,4,3,Master's,Full-Time
+1100,Thet Thant,Male,44,36-45,15,Engineering,Junior Developer,1001833,1M - 2M MMK,2024-09-09,Active,No,0,,2,4,Master's,Contract
+1101,Thandar Ko,Female,43,36-45,16,Finance,Accountant,1098212,1M - 2M MMK,2023-04-01,Resigned,Yes,1,2023-11-29,2,2,Master's,Full-Time
+1102,Thet Thu,Male,40,36-45,11,Engineering,Junior Developer,1088252,1M - 2M MMK,2021-11-15,Resigned,Yes,1,2025-10-30,1,3,Master's,Full-Time
+1103,Phyu Myint,Female,44,36-45,18,Sales,Senior Sales Rep,989595,< 1M MMK,2021-08-22,Active,No,0,,3,3,Bachelor's,Full-Time
+1104,Nilar Lwin,Female,42,36-45,18,HR,HR Officer,904947,< 1M MMK,2022-03-09,Active,No,0,,3,2,Master's,Full-Time
+1105,Ko Zaw,Male,30,26-35,7,Operations,Logistics Specialist,913828,< 1M MMK,2025-09-03,Active,No,0,,3,3,Bachelor's,Contract
+1106,Ei Myint,Female,41,36-45,14,Engineering,Tech Lead,4822963,3M+ MMK,2023-05-06,Active,No,0,,4,2,Diploma,Full-Time
+1107,Naing Hlaing,Male,32,26-35,9,HR,HR Manager,2988923,2M - 3M MMK,2022-05-14,Active,No,0,,3,3,Bachelor's,Full-Time
+1108,Zaw Tun,Male,36,36-45,14,Engineering,Software Engineer,1947316,1M - 2M MMK,2022-12-17,Active,No,0,,3,2,Bachelor's,Full-Time
+1109,Myo Aung,Male,24,18-25,2,Engineering,Software Engineer,1865720,1M - 2M MMK,2024-09-04,Resigned,Yes,1,2026-07-21,2,4,Diploma,Full-Time
+1110,Nilar San,Female,37,36-45,13,Marketing,Digital Marketing Lead,1524536,1M - 2M MMK,2021-05-20,Active,No,0,,4,3,Master's,Full-Time
+1111,Wai Htun,Male,21,18-25,1,Operations,Ops Coordinator,505951,< 1M MMK,2025-08-31,Active,No,0,,3,3,Diploma,Full-Time
+1112,Yin Lwin,Female,21,18-25,1,Operations,Logistics Specialist,860654,< 1M MMK,2023-09-02,Active,No,0,,3,4,Master's,Contract
+1113,Min Nwe,Male,25,18-25,2,Marketing,Marketing Specialist,868014,< 1M MMK,2024-12-20,Active,No,0,,3,3,Master's,Full-Time
+1114,Bo Thant,Male,38,36-45,12,HR,HR Payroll Executive,1199989,1M - 2M MMK,2021-07-13,Active,No,0,,3,4,Diploma,Contract
+1115,Su Oo,Female,32,26-35,8,Engineering,Software Engineer,1953378,1M - 2M MMK,2022-09-28,Active,No,0,,4,3,Master's,Full-Time
+1116,Su Zaw,Female,27,26-35,3,Marketing,Content Creator,675665,< 1M MMK,2023-05-18,Active,No,0,,3,5,Master's,Contract
+1117,May Moe,Female,46,46-55,22,Finance,Accountant,954230,< 1M MMK,2022-08-29,Active,No,0,,4,1,Master's,Contract
+1118,Nilar Zaw,Female,43,36-45,19,Engineering,Tech Lead,4006751,3M+ MMK,2022-01-06,Active,No,0,,4,2,Master's,Full-Time
+1119,Thandar Naing,Female,28,26-35,6,Operations,Ops Supervisor,1396004,1M - 2M MMK,2025-05-25,Active,No,0,,3,4,Master's,Full-Time
+1120,Ei Htun,Female,33,26-35,11,Operations,Ops Supervisor,1406812,1M - 2M MMK,2023-10-27,Active,No,0,,4,4,Bachelor's,Contract
+1121,Kyaw Khaing,Male,32,26-35,7,Sales,Sales Rep,574495,< 1M MMK,2023-11-23,Active,No,0,,4,2,Master's,Full-Time
+1122,Win Naing,Male,48,46-55,19,Operations,Ops Supervisor,1470798,1M - 2M MMK,2023-04-30,Resigned,Yes,1,2026-08-20,1,2,Bachelor's,Full-Time
+1123,Win Tun,Male,33,26-35,10,Marketing,Digital Marketing Lead,1883173,1M - 2M MMK,2021-10-09,Resigned,Yes,1,2024-11-29,1,1,Bachelor's,Full-Time
+1124,Myo Zaw,Male,30,26-35,5,Engineering,Tech Lead,3943444,3M+ MMK,2022-08-14,Active,No,0,,2,3,Diploma,Full-Time
+1125,Thura Khaing,Male,40,36-45,15,Engineering,Junior Developer,1009065,1M - 2M MMK,2024-03-23,Active,No,0,,2,3,Diploma,Full-Time
+1126,Khin Hlaing,Female,41,36-45,18,HR,HR Assistant,621995,< 1M MMK,2023-08-21,Resigned,Yes,1,2025-03-19,1,1,Bachelor's,Full-Time
+1127,Soe Tun,Male,36,36-45,13,Engineering,Senior Engineer,2650741,2M - 3M MMK,2022-12-23,Active,No,0,,3,3,Diploma,Full-Time
+1128,Zayar Oo,Male,30,26-35,8,Marketing,Marketing Director,3195305,3M+ MMK,2022-02-17,Resigned,Yes,1,2023-09-28,1,3,Master's,Contract
+1129,Yamin Khaing,Female,36,36-45,12,Sales,Sales Rep,581825,< 1M MMK,2022-01-27,Active,No,0,,3,4,Master's,Contract
+1130,Soe Htun,Male,33,26-35,8,Operations,Ops Supervisor,1488963,1M - 2M MMK,2023-10-14,Active,No,0,,4,3,Bachelor's,Full-Time
+1131,Min Myint,Male,31,26-35,8,Engineering,Software Engineer,1745465,1M - 2M MMK,2022-10-20,Resigned,Yes,1,2025-02-17,1,3,Master's,Full-Time
+1132,Soe Hlaing,Male,29,26-35,5,Engineering,Tech Lead,4183596,3M+ MMK,2025-06-09,Active,No,0,,3,3,Diploma,Full-Time
+1133,Aung Zaw,Male,30,26-35,8,Engineering,Tech Lead,3831154,3M+ MMK,2021-05-18,Active,No,0,,1,2,Master's,Contract
+1134,Thandar Htun,Female,29,26-35,5,HR,HR Officer,976779,< 1M MMK,2023-03-27,Active,No,0,,4,1,Bachelor's,Full-Time
+1135,Hnin Aye,Female,41,36-45,18,HR,HR Payroll Executive,1522608,1M - 2M MMK,2024-12-12,Active,No,0,,3,2,Bachelor's,Full-Time
+1136,Mya Htun,Male,34,26-35,9,HR,HR Payroll Executive,1473867,1M - 2M MMK,2024-12-24,Resigned,Yes,1,2026-03-26,1,2,Diploma,Contract
+1137,Zaw Aung,Male,35,26-35,10,Sales,Senior Sales Rep,801105,< 1M MMK,2022-02-16,Active,No,0,,3,3,Diploma,Full-Time
+1138,Mya Oo,Male,44,36-45,18,HR,HR Payroll Executive,1351162,1M - 2M MMK,2025-01-08,Active,No,0,,4,4,Bachelor's,Full-Time
+1139,Su Oo,Female,31,26-35,9,Operations,Ops Manager,2731291,2M - 3M MMK,2022-12-07,Resigned,Yes,1,2026-07-08,1,5,Bachelor's,Full-Time
+1140,Khin Zaw,Female,31,26-35,7,Sales,Senior Sales Rep,813185,< 1M MMK,2026-03-30,Active,No,0,,4,4,Bachelor's,Full-Time
+1141,Zaw Aye,Male,30,26-35,8,Sales,Senior Sales Rep,950944,< 1M MMK,2024-06-12,Active,No,0,,2,3,Diploma,Contract
+1142,Su Thu,Female,34,26-35,9,HR,HR Assistant,557056,< 1M MMK,2024-08-06,Active,No,0,,2,3,Diploma,Full-Time
+1143,May Aye,Female,27,26-35,5,Sales,Account Executive,1496642,1M - 2M MMK,2025-07-07,Active,No,0,,2,3,Master's,Full-Time
+1144,Nilar Zaw,Female,39,36-45,13,Sales,Account Executive,1619757,1M - 2M MMK,2025-10-29,Active,No,0,,4,3,Bachelor's,Full-Time
+1145,Phyu Tun,Female,40,36-45,17,Sales,Sales Manager,2960314,2M - 3M MMK,2021-07-18,Resigned,Yes,1,2024-03-10,3,4,Diploma,Full-Time
+1146,Myo Aung,Male,28,26-35,4,Operations,Ops Manager,2578958,2M - 3M MMK,2022-09-24,Active,No,0,,3,3,Bachelor's,Full-Time
+1147,Thandar Lwin,Female,31,26-35,6,HR,HR Payroll Executive,1395176,1M - 2M MMK,2025-12-13,Active,No,0,,2,2,Master's,Full-Time
+1148,Thet Win,Male,29,26-35,5,Sales,Sales Rep,520101,< 1M MMK,2024-03-13,Active,No,0,,3,3,Master's,Full-Time
+1149,Htet Thant,Male,37,36-45,14,Marketing,Content Creator,567019,< 1M MMK,2021-07-18,Active,No,0,,4,2,Diploma,Full-Time
+1150,Kyaw Lwin,Male,28,26-35,5,HR,HR Officer,1034781,1M - 2M MMK,2025-07-05,Active,No,0,,3,3,Master's,Contract
+1151,Su Aung,Female,22,18-25,1,Operations,Ops Supervisor,1329364,1M - 2M MMK,2023-11-05,Active,No,0,,4,3,Diploma,Full-Time
+1152,Aye Thu,Female,32,26-35,9,Sales,Sales Rep,554459,< 1M MMK,2022-06-28,Active,No,0,,4,3,Diploma,Full-Time
+1153,May Aung,Female,23,18-25,1,Engineering,Tech Lead,3997230,3M+ MMK,2024-10-26,Active,No,0,,3,3,Master's,Full-Time
+1154,Aye Nwe,Female,29,26-35,6,Engineering,Tech Lead,5063042,3M+ MMK,2025-02-15,Active,No,0,,3,3,Diploma,Full-Time
+1155,Hnin San,Female,27,26-35,5,Finance,Finance Manager,3413881,3M+ MMK,2022-12-03,Active,No,0,,4,3,Master's,Full-Time
+1156,Tin Swe,Male,21,18-25,1,Engineering,Senior Engineer,2740369,2M - 3M MMK,2022-09-02,Active,No,0,,3,3,Master's,Full-Time
+1157,Win Swe,Male,49,46-55,26,Sales,Sales Rep,550358,< 1M MMK,2024-01-18,Active,No,0,,4,3,Master's,Contract
+1158,Min Hlaing,Male,33,26-35,9,Operations,Ops Supervisor,1393882,1M - 2M MMK,2022-03-15,Active,No,0,,4,3,Bachelor's,Full-Time
+1159,Soe Thu,Male,33,26-35,8,Finance,Accountant,917767,< 1M MMK,2026-01-28,Active,No,0,,3,2,Bachelor's,Full-Time
+1160,Yamin Aung,Female,32,26-35,7,Operations,Ops Manager,2561056,2M - 3M MMK,2022-02-13,Active,No,0,,3,2,Bachelor's,Full-Time
+1161,Tin Aye,Male,44,36-45,14,Marketing,Content Creator,731778,< 1M MMK,2021-12-25,Active,No,0,,4,4,Bachelor's,Contract
+1162,Sandar Kyaw,Female,21,18-25,1,HR,HR Assistant,602662,< 1M MMK,2024-05-19,Resigned,Yes,1,2025-10-24,4,3,Master's,Contract
+1163,Zayar Nwe,Male,33,26-35,10,Operations,Ops Supervisor,1160980,1M - 2M MMK,2021-08-19,Active,No,0,,1,3,Master's,Full-Time
+1164,Thet Moe,Male,23,18-25,1,Finance,Finance Manager,3330450,3M+ MMK,2023-11-22,Active,No,0,,2,5,Master's,Full-Time
+1165,Tin Ko,Male,29,26-35,6,Sales,Sales Manager,2947297,2M - 3M MMK,2025-03-24,Active,No,0,,3,3,Bachelor's,Full-Time
+1166,Thura Htun,Male,44,36-45,20,Sales,Senior Sales Rep,885611,< 1M MMK,2023-10-27,Active,No,0,,4,3,Diploma,Contract
+1167,Wai Hlaing,Male,21,18-25,1,Engineering,Software Engineer,1562712,1M - 2M MMK,2021-10-01,Active,No,0,,3,5,Diploma,Full-Time
+1168,Mon Moe,Female,41,36-45,12,Finance,Junior Accountant,704552,< 1M MMK,2023-12-18,Active,No,0,,3,2,Diploma,Contract
+1169,Myo Thu,Male,39,36-45,14,Engineering,Software Engineer,1532140,1M - 2M MMK,2025-10-16,Active,No,0,,2,3,Bachelor's,Full-Time
+1170,Khin Myint,Female,38,36-45,14,Operations,Ops Coordinator,602568,< 1M MMK,2024-10-09,Active,No,0,,3,4,Diploma,Full-Time
+1171,Min Lwin,Male,37,36-45,14,Operations,Ops Supervisor,1374161,1M - 2M MMK,2024-01-14,Active,No,0,,1,3,Bachelor's,Full-Time
+1172,Soe Myint,Male,33,26-35,8,Sales,Sales Manager,3170963,3M+ MMK,2026-02-22,Active,No,0,,3,3,Diploma,Full-Time
+1173,Sandar Hlaing,Female,34,26-35,7,HR,HR Officer,1122746,1M - 2M MMK,2023-03-16,Active,No,0,,1,3,Diploma,Full-Time
+1174,Aye Aye,Female,29,26-35,7,Operations,Logistics Specialist,838634,< 1M MMK,2022-12-10,Resigned,Yes,1,2024-06-28,2,2,Diploma,Full-Time
+1175,Thet Ko,Male,27,26-35,4,Finance,Accountant,923551,< 1M MMK,2024-05-01,Resigned,Yes,1,2026-07-02,1,3,Diploma,Full-Time
+1176,Sandar Lwin,Female,21,18-25,1,Finance,Finance Analyst,1472934,1M - 2M MMK,2026-02-20,Active,No,0,,3,3,Master's,Full-Time
+1177,Mya Zaw,Male,47,46-55,21,Marketing,Marketing Specialist,992508,< 1M MMK,2022-07-18,Resigned,Yes,1,2026-05-09,1,3,Master's,Contract
+1178,Bo Win,Male,22,18-25,1,Engineering,Senior Engineer,3202382,3M+ MMK,2023-04-17,Resigned,Yes,1,2025-11-22,2,3,Bachelor's,Full-Time
+1179,Naing Zaw,Male,38,36-45,11,Operations,Ops Coordinator,603259,< 1M MMK,2023-05-04,Active,No,0,,3,5,Master's,Full-Time
+1180,Soe Moe,Male,39,36-45,16,HR,HR Payroll Executive,1341611,1M - 2M MMK,2024-05-23,Active,No,0,,2,4,Diploma,Full-Time
+1181,Myo Khaing,Male,38,36-45,16,Finance,Finance Analyst,1509173,1M - 2M MMK,2026-02-05,Resigned,Yes,1,2026-08-16,2,3,Diploma,Full-Time
+1182,Hnin Naing,Female,34,26-35,10,Engineering,Senior Engineer,3280003,3M+ MMK,2023-02-19,Active,No,0,,3,3,Master's,Full-Time
+1183,Yin Khaing,Female,34,26-35,10,Sales,Senior Sales Rep,875284,< 1M MMK,2023-04-28,Resigned,Yes,1,2025-01-20,2,4,Master's,Full-Time
+1184,Su Naing,Female,33,26-35,8,Operations,Logistics Specialist,913542,< 1M MMK,2024-09-02,Active,No,0,,4,3,Diploma,Full-Time
+1185,May Htun,Female,41,36-45,18,Finance,Finance Analyst,1438864,1M - 2M MMK,2025-01-15,Active,No,0,,4,3,Bachelor's,Contract
+1186,Bo Lwin,Male,50,46-55,24,HR,HR Manager,2370305,2M - 3M MMK,2024-07-15,Active,No,0,,1,3,Master's,Full-Time
+1187,Zaw Thant,Male,44,36-45,16,Operations,Ops Manager,2173214,2M - 3M MMK,2023-12-26,Active,No,0,,4,1,Diploma,Full-Time
+1188,Yin Aung,Female,35,26-35,10,HR,HR Assistant,650120,< 1M MMK,2022-05-09,Active,No,0,,4,3,Master's,Full-Time
+1189,Hnin Htun,Female,36,36-45,14,Engineering,Software Engineer,1994530,1M - 2M MMK,2022-04-08,Active,No,0,,3,1,Master's,Full-Time
+1190,Yamin Khaing,Female,32,26-35,8,HR,HR Assistant,687597,< 1M MMK,2021-06-19,Active,No,0,,4,3,Bachelor's,Contract
+1191,Win Lwin,Male,32,26-35,6,Finance,Accountant,1215445,1M - 2M MMK,2024-11-18,Active,No,0,,4,4,Diploma,Full-Time
+1192,Ko San,Male,35,26-35,12,HR,HR Officer,994916,< 1M MMK,2025-03-21,Active,No,0,,4,3,Diploma,Full-Time
+1193,Mon Win,Female,33,26-35,11,Marketing,Digital Marketing Lead,1654953,1M - 2M MMK,2025-02-23,Resigned,Yes,1,2026-08-09,1,3,Bachelor's,Full-Time
+1194,Thet Thant,Male,25,18-25,3,Engineering,Tech Lead,5204313,3M+ MMK,2022-10-31,Resigned,Yes,1,2024-11-08,2,3,Diploma,Contract
+1195,Aye Aung,Female,35,26-35,9,Marketing,Marketing Director,3254975,3M+ MMK,2024-06-20,Active,No,0,,3,4,Bachelor's,Full-Time
+1196,Su Hlaing,Female,38,36-45,14,HR,HR Assistant,541090,< 1M MMK,2022-09-24,Active,No,0,,2,2,Master's,Full-Time
+1197,Yamin Nwe,Female,23,18-25,1,Operations,Ops Coordinator,500055,< 1M MMK,2022-12-26,Active,No,0,,1,3,Bachelor's,Full-Time
+1198,Yamin Naing,Female,26,26-35,3,Engineering,Software Engineer,1823776,1M - 2M MMK,2021-12-14,Resigned,Yes,1,2024-02-18,1,2,Master's,Full-Time
+1199,May Oo,Female,30,26-35,5,Sales,Account Executive,1722668,1M - 2M MMK,2025-01-16,Active,No,0,,3,5,Master's,Full-Time
+1200,Hnin San,Female,32,26-35,10,Operations,Ops Supervisor,1260858,1M - 2M MMK,2025-08-14,Active,No,0,,2,3,Diploma,Full-Time
+1201,Su Aung,Female,48,46-55,19,Operations,Ops Supervisor,1202408,1M - 2M MMK,2024-11-24,Active,No,0,,3,4,Master's,Full-Time
+1202,Ei Moe,Female,32,26-35,8,Engineering,Software Engineer,1821759,1M - 2M MMK,2024-02-01,Resigned,Yes,1,2026-08-13,2,3,Master's,Full-Time
+1203,Min Myint,Male,28,26-35,6,Marketing,Marketing Director,3320494,3M+ MMK,2022-09-13,Active,No,0,,2,5,Master's,Full-Time
+1204,Yamin Nwe,Female,24,18-25,2,Marketing,Marketing Director,3815965,3M+ MMK,2025-06-08,Active,No,0,,4,3,Bachelor's,Full-Time
+1205,Tin Hlaing,Male,24,18-25,2,Finance,Junior Accountant,713132,< 1M MMK,2024-08-14,Active,No,0,,3,1,Master's,Full-Time
+1206,Soe Nwe,Male,42,36-45,17,Engineering,Software Engineer,1689635,1M - 2M MMK,2023-03-13,Active,No,0,,3,2,Bachelor's,Full-Time
+1207,Wai Myint,Male,27,26-35,4,HR,HR Assistant,714576,< 1M MMK,2025-02-04,Resigned,Yes,1,2026-01-09,1,2,Diploma,Full-Time
+1208,Su Oo,Female,46,46-55,20,Sales,Sales Rep,591782,< 1M MMK,2021-08-24,Resigned,Yes,1,2024-01-23,2,2,Diploma,Full-Time
+1209,Ko Aye,Male,30,26-35,7,Finance,Finance Analyst,1643920,1M - 2M MMK,2023-08-05,Active,No,0,,3,1,Diploma,Contract
+1210,Phyu Thu,Female,37,36-45,13,Operations,Ops Manager,2163738,2M - 3M MMK,2022-03-16,Active,No,0,,4,2,Bachelor's,Full-Time
+1211,Yamin Aung,Female,41,36-45,16,Sales,Account Executive,1356566,1M - 2M MMK,2021-08-22,Active,No,0,,3,3,Diploma,Full-Time
+1212,Thandar Htun,Female,27,26-35,5,Engineering,Software Engineer,1895693,1M - 2M MMK,2024-12-16,Active,No,0,,3,3,Master's,Full-Time
+1213,Wai Tun,Male,26,26-35,3,Finance,Finance Analyst,1714054,1M - 2M MMK,2023-11-13,Active,No,0,,3,3,Diploma,Contract
+1214,Ko Aye,Male,29,26-35,6,Finance,Finance Manager,2803058,2M - 3M MMK,2022-01-19,Active,No,0,,2,3,Bachelor's,Full-Time
+1215,Myo Win,Male,39,36-45,11,Engineering,Tech Lead,4381427,3M+ MMK,2023-10-05,Active,No,0,,1,4,Master's,Full-Time
+1216,Tin Aye,Male,27,26-35,5,Sales,Senior Sales Rep,997270,< 1M MMK,2024-03-04,Active,No,0,,3,2,Bachelor's,Full-Time
+1217,Yamin Hlaing,Female,38,36-45,15,Engineering,Junior Developer,1049401,1M - 2M MMK,2023-06-23,Active,No,0,,4,3,Bachelor's,Full-Time
+1218,Thandar Oo,Female,34,26-35,11,Operations,Ops Coordinator,644309,< 1M MMK,2022-05-01,Active,No,0,,3,4,Diploma,Full-Time
+1219,Ko Thant,Male,24,18-25,1,Finance,Accountant,1184735,1M - 2M MMK,2025-07-08,Resigned,Yes,1,2026-07-02,4,3,Diploma,Full-Time
+1220,Sandar Nwe,Female,32,26-35,10,Marketing,Content Creator,568473,< 1M MMK,2025-03-17,Active,No,0,,4,4,Bachelor's,Full-Time
+1221,Zayar Naing,Male,31,26-35,8,Finance,Finance Analyst,1784952,1M - 2M MMK,2025-04-09,Active,No,0,,3,3,Bachelor's,Full-Time
+1222,Mya Oo,Male,37,36-45,14,Operations,Ops Supervisor,1371775,1M - 2M MMK,2025-12-02,Active,No,0,,3,1,Diploma,Full-Time
+1223,Phyu Hlaing,Female,27,26-35,4,HR,HR Manager,2440601,2M - 3M MMK,2023-05-30,Active,No,0,,3,2,Master's,Full-Time
+1224,Mya Lwin,Male,35,26-35,9,HR,HR Assistant,671497,< 1M MMK,2025-09-10,Active,No,0,,4,3,Bachelor's,Contract
+1225,Aye Moe,Female,41,36-45,12,Marketing,Marketing Specialist,1148314,1M - 2M MMK,2022-09-11,Resigned,Yes,1,2024-09-21,2,3,Bachelor's,Full-Time
+1226,Wai Naing,Male,39,36-45,11,Operations,Ops Coordinator,630461,< 1M MMK,2021-01-03,Active,No,0,,3,3,Master's,Full-Time
+1227,Naing San,Male,47,46-55,16,HR,HR Manager,2857277,2M - 3M MMK,2023-09-06,Resigned,Yes,1,2025-03-31,1,3,Master's,Full-Time
+1228,Thet Zaw,Male,42,36-45,13,Marketing,Marketing Specialist,877746,< 1M MMK,2024-02-28,Resigned,Yes,1,2026-06-22,1,3,Diploma,Full-Time
+1229,Aye Thant,Female,37,36-45,13,Marketing,Marketing Director,4203454,3M+ MMK,2021-06-27,Active,No,0,,3,3,Bachelor's,Full-Time
+1230,Zaw Oo,Male,38,36-45,14,Finance,Finance Analyst,1758959,1M - 2M MMK,2024-11-15,Resigned,Yes,1,2026-07-21,1,3,Diploma,Full-Time
+1231,Hnin Kyaw,Female,31,26-35,7,Marketing,Content Creator,704598,< 1M MMK,2025-06-14,Active,No,0,,3,3,Bachelor's,Contract
+1232,Win San,Male,35,26-35,11,Finance,Finance Manager,3363597,3M+ MMK,2024-03-10,Active,No,0,,2,3,Bachelor's,Full-Time
+1233,Min Ko,Male,29,26-35,6,Sales,Senior Sales Rep,776848,< 1M MMK,2021-05-04,Active,No,0,,4,3,Master's,Full-Time
+1234,Yamin Aye,Female,38,36-45,15,Engineering,Software Engineer,1595381,1M - 2M MMK,2022-09-27,Resigned,Yes,1,2024-05-15,1,3,Diploma,Full-Time
+1235,Mon Oo,Female,35,26-35,8,Sales,Sales Manager,3466456,3M+ MMK,2025-09-30,Active,No,0,,3,2,Diploma,Full-Time
+1236,Soe Aung,Male,53,46-55,29,HR,HR Assistant,688659,< 1M MMK,2024-12-07,Resigned,Yes,1,2026-02-14,2,4,Diploma,Full-Time
+1237,Thandar Zaw,Female,49,46-55,19,Marketing,Digital Marketing Lead,1850444,1M - 2M MMK,2021-08-30,Active,No,0,,2,4,Diploma,Full-Time
+1238,May Htun,Female,37,36-45,11,Engineering,Senior Engineer,2574330,2M - 3M MMK,2025-10-26,Active,No,0,,3,2,Diploma,Full-Time
+1239,Thura Naing,Male,27,26-35,3,Marketing,Content Creator,549247,< 1M MMK,2025-11-03,Resigned,Yes,1,2026-05-13,3,4,Diploma,Full-Time
+1240,Naing Myint,Male,36,36-45,10,Finance,Finance Analyst,1480338,1M - 2M MMK,2026-02-19,Active,No,0,,2,3,Diploma,Full-Time
+1241,Kyaw Aung,Male,44,36-45,16,Finance,Junior Accountant,802053,< 1M MMK,2021-05-22,Active,No,0,,2,3,Master's,Full-Time
+1242,Ei Kyaw,Female,24,18-25,2,Marketing,Marketing Specialist,1009255,1M - 2M MMK,2024-04-26,Active,No,0,,4,4,Diploma,Full-Time
+1243,Tin Zaw,Male,43,36-45,20,HR,HR Manager,2270921,2M - 3M MMK,2024-01-15,Active,No,0,,1,3,Diploma,Full-Time
+1244,Thura Moe,Male,21,18-25,1,Engineering,Software Engineer,1675096,1M - 2M MMK,2021-05-03,Active,No,0,,3,1,Bachelor's,Contract
+1245,Khin Myint,Female,23,18-25,1,Marketing,Digital Marketing Lead,1696736,1M - 2M MMK,2025-03-12,Resigned,Yes,1,2025-10-26,2,2,Diploma,Contract
+1246,Tin Kyaw,Male,34,26-35,11,Sales,Account Executive,1713760,1M - 2M MMK,2023-03-16,Active,No,0,,3,3,Bachelor's,Contract
+1247,Zayar Thu,Male,26,26-35,4,HR,HR Officer,843282,< 1M MMK,2023-07-10,Active,No,0,,2,3,Master's,Contract
+1248,Min Aung,Male,40,36-45,12,Marketing,Digital Marketing Lead,1902776,1M - 2M MMK,2024-11-28,Active,No,0,,4,2,Diploma,Full-Time
+1249,Thandar Win,Female,44,36-45,20,Engineering,Junior Developer,1023312,1M - 2M MMK,2022-06-17,Active,No,0,,3,3,Bachelor's,Full-Time
+1250,Yin Zaw,Female,52,46-55,20,HR,HR Assistant,552950,< 1M MMK,2025-05-19,Active,No,0,,4,3,Diploma,Contract
+1251,Min Thu,Male,38,36-45,15,Engineering,Senior Engineer,3419080,3M+ MMK,2021-06-03,Resigned,Yes,1,2022-04-11,1,4,Master's,Full-Time
+1252,Phyu Lwin,Female,45,36-45,17,Finance,Finance Manager,3325251,3M+ MMK,2023-03-20,Active,No,0,,3,3,Bachelor's,Full-Time
+1253,Phyu Zaw,Female,32,26-35,7,HR,HR Officer,1013892,1M - 2M MMK,2023-10-19,Active,No,0,,2,2,Diploma,Full-Time
+1254,Yin Aye,Female,34,26-35,11,HR,HR Manager,2934176,2M - 3M MMK,2023-01-06,Active,No,0,,3,3,Master's,Full-Time
+1255,Ko Ko,Male,58,55+,29,Sales,Senior Sales Rep,773717,< 1M MMK,2025-07-19,Active,No,0,,4,5,Bachelor's,Full-Time
+1256,Bo Naing,Male,43,36-45,20,Sales,Sales Rep,583708,< 1M MMK,2022-03-26,Active,No,0,,3,5,Bachelor's,Full-Time
+1257,Ei San,Female,28,26-35,4,Marketing,Digital Marketing Lead,1951828,1M - 2M MMK,2021-02-27,Active,No,0,,4,4,Master's,Full-Time
+1258,Ko Khaing,Male,43,36-45,17,HR,HR Assistant,551795,< 1M MMK,2024-05-17,Active,No,0,,1,5,Bachelor's,Full-Time
+1259,Su Aung,Female,37,36-45,12,Sales,Sales Rep,453834,< 1M MMK,2024-04-16,Active,No,0,,3,2,Diploma,Contract
+1260,Hnin Thu,Female,38,36-45,14,HR,HR Payroll Executive,1307303,1M - 2M MMK,2021-10-07,Active,No,0,,3,3,Master's,Full-Time
+1261,Ko Aye,Male,25,18-25,2,Marketing,Digital Marketing Lead,1565012,1M - 2M MMK,2024-04-21,Active,No,0,,2,1,Diploma,Contract
+1262,Hnin Thu,Female,44,36-45,18,HR,HR Officer,999752,< 1M MMK,2026-03-02,Active,No,0,,3,2,Master's,Full-Time
+1263,Soe Oo,Male,49,46-55,23,Finance,Finance Analyst,1865749,1M - 2M MMK,2021-12-10,Active,No,0,,3,3,Bachelor's,Full-Time
+1264,Tin Oo,Male,31,26-35,7,Sales,Account Executive,1645639,1M - 2M MMK,2025-01-15,Resigned,Yes,1,2026-01-27,1,2,Master's,Full-Time
+1265,Hnin Hlaing,Female,23,18-25,1,Engineering,Tech Lead,3929099,3M+ MMK,2023-09-09,Active,No,0,,3,4,Bachelor's,Full-Time
+1266,Su Swe,Female,28,26-35,5,HR,HR Assistant,611779,< 1M MMK,2025-12-24,Active,No,0,,3,4,Bachelor's,Full-Time
+1267,Nilar Khaing,Female,38,36-45,10,Marketing,Content Creator,630577,< 1M MMK,2024-08-31,Active,No,0,,2,2,Diploma,Full-Time
+1268,Win Aye,Male,32,26-35,8,Sales,Account Executive,1405726,1M - 2M MMK,2021-07-16,Resigned,Yes,1,2025-03-27,2,2,Bachelor's,Full-Time
+1269,Wai Thant,Male,34,26-35,11,Operations,Logistics Specialist,793853,< 1M MMK,2022-02-28,Active,No,0,,3,3,Master's,Contract
+1270,Htet Oo,Male,38,36-45,11,Marketing,Marketing Director,3376479,3M+ MMK,2025-12-19,Active,No,0,,1,3,Master's,Full-Time
+1271,Htet Thu,Male,37,36-45,13,HR,HR Officer,1046954,1M - 2M MMK,2024-09-28,Resigned,Yes,1,2026-03-14,1,2,Master's,Full-Time
+1272,Aye Aye,Female,27,26-35,3,Marketing,Marketing Director,3851575,3M+ MMK,2022-04-28,Active,No,0,,4,4,Diploma,Full-Time
+1273,Khin Thu,Female,39,36-45,12,Marketing,Marketing Specialist,894993,< 1M MMK,2025-03-31,Active,No,0,,2,1,Bachelor's,Contract
+1274,Aye Moe,Female,33,26-35,10,Marketing,Marketing Specialist,1132340,1M - 2M MMK,2022-06-13,Active,No,0,,4,2,Diploma,Full-Time
+1275,Su Swe,Female,28,26-35,5,Engineering,Tech Lead,5128228,3M+ MMK,2021-01-26,Active,No,0,,3,2,Diploma,Full-Time
+1276,Thura Tun,Male,28,26-35,5,Engineering,Junior Developer,1057509,1M - 2M MMK,2025-11-12,Active,No,0,,3,3,Master's,Full-Time
+1277,May Lwin,Female,34,26-35,11,Finance,Finance Analyst,1561561,1M - 2M MMK,2024-06-20,Active,No,0,,3,3,Diploma,Full-Time
+1278,Htet Hlaing,Male,32,26-35,9,HR,HR Payroll Executive,1541910,1M - 2M MMK,2022-09-13,Active,No,0,,4,3,Bachelor's,Full-Time
+1279,Soe Htun,Male,37,36-45,14,Sales,Account Executive,1617111,1M - 2M MMK,2024-05-23,Active,No,0,,3,4,Master's,Full-Time
+1280,Khin Aung,Female,40,36-45,17,HR,HR Payroll Executive,1492854,1M - 2M MMK,2023-04-07,Resigned,Yes,1,2026-09-11,1,2,Bachelor's,Full-Time
+1281,Tin Lwin,Male,28,26-35,5,Operations,Ops Coordinator,671720,< 1M MMK,2024-12-14,Active,No,0,,4,3,Bachelor's,Full-Time
+1282,Nilar Htun,Female,41,36-45,17,Finance,Finance Manager,3095142,3M+ MMK,2022-12-18,Active,No,0,,3,4,Bachelor's,Full-Time
+1283,Hnin Lwin,Female,38,36-45,13,Finance,Accountant,1199988,1M - 2M MMK,2024-08-18,Active,No,0,,4,5,Diploma,Full-Time
+1284,Win Zaw,Male,46,46-55,20,Marketing,Marketing Specialist,1054879,1M - 2M MMK,2021-01-18,Active,No,0,,4,4,Diploma,Full-Time
+1285,Aye Win,Female,23,18-25,1,Sales,Sales Manager,2964598,2M - 3M MMK,2023-08-14,Active,No,0,,1,5,Master's,Full-Time
+1286,Nilar Thant,Female,33,26-35,9,Sales,Account Executive,1595362,1M - 2M MMK,2023-09-14,Resigned,Yes,1,2024-12-20,3,3,Diploma,Contract
+1287,Zaw Kyaw,Male,39,36-45,14,Finance,Accountant,1081052,1M - 2M MMK,2022-05-08,Active,No,0,,3,3,Diploma,Full-Time
+1288,May Kyaw,Female,21,18-25,1,Sales,Sales Manager,3124828,3M+ MMK,2025-02-17,Resigned,Yes,1,2026-08-13,3,3,Diploma,Full-Time
+1289,Yamin Khaing,Female,29,26-35,5,Marketing,Digital Marketing Lead,1724096,1M - 2M MMK,2025-09-28,Active,No,0,,3,4,Diploma,Full-Time
+1290,Thet Aung,Male,26,26-35,4,Marketing,Digital Marketing Lead,1806483,1M - 2M MMK,2022-04-01,Active,No,0,,3,4,Master's,Full-Time
+1291,Ei Kyaw,Female,25,18-25,3,Operations,Ops Coordinator,585578,< 1M MMK,2025-11-10,Active,No,0,,2,2,Diploma,Full-Time
+1292,Wai Myint,Male,29,26-35,7,HR,HR Officer,853270,< 1M MMK,2022-02-15,Active,No,0,,4,5,Bachelor's,Full-Time
+1293,Naing Aung,Male,43,36-45,14,HR,HR Manager,2541050,2M - 3M MMK,2021-12-29,Active,No,0,,4,3,Bachelor's,Full-Time
+1294,Thet Oo,Male,38,36-45,13,Finance,Finance Manager,3140817,3M+ MMK,2023-04-07,Active,No,0,,1,3,Diploma,Full-Time
+1295,Aung San,Male,35,26-35,10,Engineering,Software Engineer,1450033,1M - 2M MMK,2021-01-09,Active,No,0,,2,3,Diploma,Full-Time
+1296,Min Lwin,Male,47,46-55,18,Sales,Account Executive,1483403,1M - 2M MMK,2023-12-02,Active,No,0,,4,5,Master's,Contract
+1297,May Hlaing,Female,40,36-45,17,Finance,Accountant,1231829,1M - 2M MMK,2026-02-24,Active,No,0,,2,1,Diploma,Full-Time
+1298,Thandar Lwin,Female,35,26-35,11,Operations,Ops Supervisor,1403924,1M - 2M MMK,2024-06-30,Resigned,Yes,1,2025-02-14,2,1,Diploma,Full-Time
+1299,Phyu Win,Female,34,26-35,9,HR,HR Payroll Executive,1385850,1M - 2M MMK,2021-11-10,Active,No,0,,2,3,Diploma,Full-Time
+1300,Zayar Myint,Male,33,26-35,9,HR,HR Assistant,599368,< 1M MMK,2025-05-27,Resigned,Yes,1,2026-03-04,2,4,Bachelor's,Full-Time
+1301,Aye Kyaw,Female,41,36-45,12,Finance,Junior Accountant,709701,< 1M MMK,2026-02-08,Active,No,0,,3,5,Diploma,Full-Time
+1302,Zayar Oo,Male,32,26-35,9,Engineering,Junior Developer,1037922,1M - 2M MMK,2021-07-27,Active,No,0,,3,5,Master's,Full-Time
+1303,Thura Aung,Male,34,26-35,11,HR,HR Payroll Executive,1333897,1M - 2M MMK,2024-10-18,Active,No,0,,1,4,Diploma,Full-Time
+1304,Su Hlaing,Female,31,26-35,7,Operations,Ops Supervisor,1448959,1M - 2M MMK,2021-07-10,Active,No,0,,2,3,Master's,Full-Time
+1305,Hnin Khaing,Female,50,46-55,18,Operations,Logistics Specialist,798634,< 1M MMK,2024-11-26,Active,No,0,,4,3,Diploma,Full-Time
+1306,Ko Thant,Male,33,26-35,10,Operations,Ops Supervisor,1336770,1M - 2M MMK,2025-11-02,Active,No,0,,4,2,Master's,Full-Time
+1307,Aye Htun,Female,36,36-45,11,HR,HR Assistant,594938,< 1M MMK,2022-10-06,Resigned,Yes,1,2026-03-13,4,3,Master's,Full-Time
+1308,Naing Thant,Male,24,18-25,2,HR,HR Manager,2828999,2M - 3M MMK,2022-05-25,Active,No,0,,3,2,Diploma,Contract
+1309,Nilar Lwin,Female,37,36-45,12,HR,HR Officer,969253,< 1M MMK,2023-08-20,Active,No,0,,2,5,Bachelor's,Full-Time
+1310,Yamin Win,Female,32,26-35,8,Operations,Logistics Specialist,788452,< 1M MMK,2023-06-29,Active,No,0,,4,3,Bachelor's,Contract
+1311,Soe Ko,Male,41,36-45,18,HR,HR Manager,2610796,2M - 3M MMK,2024-02-16,Active,No,0,,3,4,Diploma,Full-Time
+1312,Bo Htun,Male,22,18-25,1,Sales,Account Executive,1664402,1M - 2M MMK,2025-07-31,Active,No,0,,3,3,Master's,Full-Time
+1313,Thandar Htun,Female,44,36-45,16,HR,HR Assistant,699457,< 1M MMK,2022-03-31,Resigned,Yes,1,2024-09-23,2,4,Bachelor's,Contract
+1314,May Zaw,Female,21,18-25,1,Marketing,Marketing Director,3281027,3M+ MMK,2024-06-05,Active,No,0,,4,3,Bachelor's,Full-Time
+1315,Thura Myint,Male,26,26-35,4,HR,HR Assistant,702150,< 1M MMK,2023-07-12,Active,No,0,,1,4,Diploma,Contract
+1316,Mon Thu,Female,29,26-35,5,Operations,Logistics Specialist,970815,< 1M MMK,2021-12-22,Active,No,0,,3,3,Master's,Full-Time
+1317,Hnin Myint,Female,30,26-35,6,Engineering,Software Engineer,1593213,1M - 2M MMK,2022-12-04,Active,No,0,,3,4,Master's,Full-Time
+1318,Yamin San,Female,36,36-45,12,Marketing,Marketing Specialist,921795,< 1M MMK,2024-07-02,Active,No,0,,4,2,Diploma,Full-Time
+1319,Ko Nwe,Male,24,18-25,2,Engineering,Senior Engineer,3216145,3M+ MMK,2025-04-08,Active,No,0,,3,4,Diploma,Full-Time
+1320,Sandar Myint,Female,36,36-45,10,HR,HR Assistant,545307,< 1M MMK,2021-10-25,Resigned,Yes,1,2022-08-16,2,2,Master's,Full-Time
+1321,Zayar Lwin,Male,47,46-55,22,Marketing,Digital Marketing Lead,1554240,1M - 2M MMK,2024-01-14,Resigned,Yes,1,2025-10-18,3,4,Diploma,Full-Time
+1322,Khin Kyaw,Female,44,36-45,20,Marketing,Content Creator,734561,< 1M MMK,2023-03-05,Active,No,0,,3,5,Bachelor's,Full-Time
+1323,Htet Moe,Male,33,26-35,9,Engineering,Tech Lead,5000075,3M+ MMK,2026-02-10,Active,No,0,,3,2,Diploma,Contract
+1324,Wai Htun,Male,27,26-35,3,Finance,Junior Accountant,627537,< 1M MMK,2021-12-22,Active,No,0,,1,3,Master's,Full-Time
+1325,Ei Swe,Female,23,18-25,1,HR,HR Payroll Executive,1382180,1M - 2M MMK,2021-11-14,Resigned,Yes,1,2024-03-03,3,3,Diploma,Full-Time
+1326,Min San,Male,27,26-35,3,Engineering,Software Engineer,1975913,1M - 2M MMK,2023-12-03,Resigned,Yes,1,2025-10-30,2,3,Master's,Full-Time
+1327,Myo San,Male,24,18-25,2,Sales,Account Executive,1403851,1M - 2M MMK,2025-03-22,Active,No,0,,3,2,Master's,Full-Time
+1328,Mya Thant,Male,36,36-45,11,Engineering,Software Engineer,1976982,1M - 2M MMK,2024-10-29,Active,No,0,,4,2,Master's,Full-Time
+1329,Wai Ko,Male,51,46-55,20,Engineering,Senior Engineer,3024022,3M+ MMK,2023-11-08,Active,No,0,,3,5,Bachelor's,Contract
+1330,Thet Aye,Male,39,36-45,15,Engineering,Junior Developer,1007483,1M - 2M MMK,2022-03-08,Active,No,0,,4,3,Bachelor's,Full-Time
+1331,Mon Myint,Female,33,26-35,7,Marketing,Content Creator,696847,< 1M MMK,2021-11-11,Resigned,Yes,1,2026-05-17,2,3,Diploma,Full-Time
+1332,Win Swe,Male,37,36-45,9,Operations,Ops Manager,2538945,2M - 3M MMK,2023-04-09,Active,No,0,,3,3,Diploma,Full-Time
+1333,Min Thu,Male,30,26-35,6,HR,HR Assistant,615117,< 1M MMK,2023-10-27,Resigned,Yes,1,2026-07-08,3,3,Diploma,Full-Time
+1334,Ko Aye,Male,24,18-25,2,Finance,Accountant,1161363,1M - 2M MMK,2025-06-20,Active,No,0,,4,2,Diploma,Contract
+1335,Yin Hlaing,Female,27,26-35,3,HR,HR Officer,848819,< 1M MMK,2021-01-11,Active,No,0,,2,4,Diploma,Full-Time
+1336,Aye Nwe,Female,41,36-45,13,Finance,Accountant,964397,< 1M MMK,2024-06-17,Active,No,0,,2,4,Bachelor's,Contract
+1337,Win Aye,Male,38,36-45,15,Operations,Ops Coordinator,550950,< 1M MMK,2021-05-18,Active,No,0,,3,3,Bachelor's,Full-Time
+1338,Nilar Oo,Female,44,36-45,16,Finance,Finance Analyst,1605077,1M - 2M MMK,2022-11-04,Active,No,0,,3,3,Master's,Full-Time
+1339,Aye Aung,Female,30,26-35,6,HR,HR Payroll Executive,1282009,1M - 2M MMK,2022-03-30,Active,No,0,,3,3,Master's,Full-Time
+1340,Thandar Kyaw,Female,30,26-35,8,Operations,Ops Coordinator,528835,< 1M MMK,2024-05-27,Resigned,Yes,1,2025-09-06,1,3,Master's,Full-Time
+1341,Zaw Oo,Male,45,36-45,17,Marketing,Content Creator,727342,< 1M MMK,2025-10-06,Active,No,0,,3,5,Diploma,Full-Time
+1342,Mya Aye,Male,37,36-45,12,Operations,Logistics Specialist,873831,< 1M MMK,2022-04-03,Active,No,0,,4,2,Diploma,Full-Time
+1343,Hnin Hlaing,Female,47,46-55,22,Engineering,Junior Developer,1018743,1M - 2M MMK,2025-10-03,Active,No,0,,2,2,Diploma,Contract
+1344,Bo Zaw,Male,33,26-35,9,Marketing,Marketing Director,4300489,3M+ MMK,2021-03-24,Active,No,0,,2,3,Bachelor's,Full-Time
+1345,Khin Hlaing,Female,29,26-35,6,Operations,Ops Manager,2931037,2M - 3M MMK,2025-12-11,Resigned,Yes,1,2026-08-31,3,4,Master's,Full-Time
+1346,Ei Aung,Female,46,46-55,15,Operations,Ops Manager,2466849,2M - 3M MMK,2024-08-31,Active,No,0,,3,5,Bachelor's,Full-Time
+1347,Thandar Hlaing,Female,38,36-45,10,Operations,Ops Manager,2905224,2M - 3M MMK,2021-01-14,Active,No,0,,3,3,Bachelor's,Full-Time
+1348,Nilar Tun,Female,38,36-45,13,Marketing,Marketing Specialist,992859,< 1M MMK,2022-11-08,Active,No,0,,3,3,Bachelor's,Full-Time
+1349,Aye Ko,Female,33,26-35,9,Finance,Junior Accountant,614093,< 1M MMK,2024-04-28,Active,No,0,,2,3,Bachelor's,Full-Time
+1350,Hnin Thant,Female,33,26-35,8,Engineering,Junior Developer,1086730,1M - 2M MMK,2025-01-30,Active,No,0,,2,3,Master's,Contract
+1351,Ko Naing,Male,28,26-35,4,Operations,Logistics Specialist,1001398,1M - 2M MMK,2025-08-08,Active,No,0,,3,5,Diploma,Full-Time
+1352,Tin Win,Male,28,26-35,6,Operations,Logistics Specialist,797299,< 1M MMK,2022-02-19,Active,No,0,,3,4,Diploma,Full-Time
+1353,May Thant,Female,41,36-45,12,Engineering,Junior Developer,1086492,1M - 2M MMK,2023-12-25,Active,No,0,,3,4,Diploma,Full-Time
+1354,Khin Myint,Female,41,36-45,17,Sales,Sales Rep,572087,< 1M MMK,2023-05-29,Active,No,0,,4,3,Diploma,Full-Time
+1355,Win Thu,Male,37,36-45,12,HR,HR Manager,2367147,2M - 3M MMK,2023-09-05,Active,No,0,,3,3,Bachelor's,Full-Time
+1356,Yin Ko,Female,33,26-35,10,Engineering,Junior Developer,973724,< 1M MMK,2023-02-08,Active,No,0,,3,3,Bachelor's,Full-Time
+1357,Ei Swe,Female,29,26-35,5,Sales,Sales Manager,3292903,3M+ MMK,2024-06-07,Active,No,0,,4,3,Master's,Full-Time
+1358,May Swe,Female,22,18-25,1,Sales,Account Executive,1639355,1M - 2M MMK,2023-03-27,Active,No,0,,3,4,Master's,Full-Time
+1359,Ko Tun,Male,30,26-35,5,Finance,Finance Manager,3290359,3M+ MMK,2025-06-29,Active,No,0,,4,1,Bachelor's,Full-Time
+1360,May Thant,Female,23,18-25,1,Operations,Ops Coordinator,507335,< 1M MMK,2022-03-31,Active,No,0,,3,5,Master's,Full-Time
+1361,Khin Kyaw,Female,33,26-35,10,Marketing,Content Creator,738600,< 1M MMK,2025-08-07,Active,No,0,,4,3,Bachelor's,Full-Time
+1362,Nilar Nwe,Female,35,26-35,11,Engineering,Software Engineer,1784506,1M - 2M MMK,2024-10-12,Resigned,Yes,1,2025-12-10,4,2,Master's,Full-Time
+1363,Thandar Win,Female,43,36-45,18,Operations,Logistics Specialist,919028,< 1M MMK,2025-02-18,Active,No,0,,3,3,Master's,Contract
+1364,Htet Naing,Male,30,26-35,6,Engineering,Software Engineer,1694665,1M - 2M MMK,2023-04-08,Active,No,0,,3,2,Bachelor's,Full-Time
+1365,Su Tun,Female,34,26-35,9,Engineering,Senior Engineer,3378590,3M+ MMK,2025-07-24,Active,No,0,,3,3,Master's,Contract
+1366,Phyu Htun,Female,43,36-45,19,Engineering,Junior Developer,961820,< 1M MMK,2022-06-13,Resigned,Yes,1,2026-06-29,1,4,Master's,Full-Time
+1367,Thandar Nwe,Female,44,36-45,20,Engineering,Junior Developer,1030757,1M - 2M MMK,2022-06-24,Active,No,0,,2,5,Master's,Full-Time
+1368,Myo Thu,Male,41,36-45,13,Sales,Senior Sales Rep,1046767,1M - 2M MMK,2024-10-31,Active,No,0,,3,3,Bachelor's,Contract
+1369,Myo Naing,Male,37,36-45,14,Finance,Accountant,1192717,1M - 2M MMK,2022-12-31,Resigned,Yes,1,2024-02-02,2,1,Diploma,Contract
+1370,Sandar Khaing,Female,37,36-45,14,Sales,Account Executive,1501246,1M - 2M MMK,2025-12-10,Active,No,0,,3,5,Diploma,Full-Time
+1371,Tin Thu,Male,25,18-25,2,Finance,Junior Accountant,704604,< 1M MMK,2023-05-17,Active,No,0,,3,2,Bachelor's,Full-Time
+1372,Phyu San,Female,32,26-35,6,Marketing,Content Creator,542482,< 1M MMK,2022-03-08,Active,No,0,,3,4,Bachelor's,Full-Time
+1373,Tin Swe,Male,23,18-25,1,Operations,Ops Supervisor,1233688,1M - 2M MMK,2023-10-19,Active,No,0,,3,3,Diploma,Full-Time
+1374,Ei Naing,Female,41,36-45,14,HR,HR Payroll Executive,1535859,1M - 2M MMK,2024-02-12,Active,No,0,,2,5,Bachelor's,Full-Time
+1375,Aung Aung,Male,22,18-25,1,Operations,Ops Manager,2272956,2M - 3M MMK,2026-01-04,Active,No,0,,3,3,Diploma,Full-Time
+1376,Thura Aung,Male,33,26-35,7,HR,HR Officer,1066352,1M - 2M MMK,2023-09-03,Active,No,0,,3,3,Master's,Full-Time
+1377,Win Swe,Male,40,36-45,15,Sales,Sales Rep,522058,< 1M MMK,2022-12-21,Active,No,0,,3,2,Master's,Full-Time
+1378,Bo Nwe,Male,33,26-35,9,Operations,Ops Manager,2907291,2M - 3M MMK,2023-02-20,Active,No,0,,4,4,Diploma,Full-Time
+1379,Su Myint,Female,35,26-35,9,Marketing,Marketing Director,4189903,3M+ MMK,2021-05-27,Resigned,Yes,1,2023-10-27,1,3,Master's,Contract
+1380,Thet Hlaing,Male,41,36-45,12,Marketing,Marketing Director,3657136,3M+ MMK,2022-01-12,Active,No,0,,2,3,Diploma,Full-Time
+1381,Min Moe,Male,32,26-35,9,Finance,Finance Manager,2620949,2M - 3M MMK,2021-05-11,Active,No,0,,3,5,Bachelor's,Full-Time
+1382,Zayar Oo,Male,35,26-35,10,Marketing,Marketing Director,3528979,3M+ MMK,2022-05-22,Active,No,0,,2,3,Bachelor's,Full-Time
+1383,Bo Hlaing,Male,33,26-35,11,Sales,Sales Manager,3190553,3M+ MMK,2025-11-19,Active,No,0,,3,2,Diploma,Full-Time
+1384,Soe Thu,Male,43,36-45,19,Operations,Ops Supervisor,1461747,1M - 2M MMK,2023-09-14,Active,No,0,,3,3,Master's,Full-Time
+1385,Aung Ko,Male,31,26-35,8,Engineering,Software Engineer,1632575,1M - 2M MMK,2023-08-19,Active,No,0,,3,4,Master's,Full-Time
+1386,Yin Ko,Female,26,26-35,3,Engineering,Senior Engineer,2704799,2M - 3M MMK,2025-12-12,Active,No,0,,2,4,Master's,Full-Time
+1387,Tin Swe,Male,47,46-55,21,HR,HR Manager,2797157,2M - 3M MMK,2023-11-25,Active,No,0,,3,4,Master's,Full-Time
+1388,Sandar Oo,Female,27,26-35,4,Finance,Accountant,1001358,1M - 2M MMK,2024-07-28,Active,No,0,,3,3,Master's,Full-Time
+1389,Kyaw Aye,Male,32,26-35,7,HR,HR Officer,1116284,1M - 2M MMK,2022-08-01,Active,No,0,,2,3,Master's,Full-Time
+1390,Yin Khaing,Female,22,18-25,1,Sales,Sales Manager,3431781,3M+ MMK,2021-03-06,Active,No,0,,4,2,Master's,Full-Time
+1391,May Aung,Female,33,26-35,11,Finance,Finance Analyst,1779056,1M - 2M MMK,2025-08-24,Resigned,Yes,1,2026-09-04,1,5,Bachelor's,Full-Time
+1392,Thet Tun,Male,27,26-35,5,Engineering,Software Engineer,1704782,1M - 2M MMK,2024-10-27,Active,No,0,,2,4,Diploma,Contract
+1393,Khin Tun,Female,46,46-55,23,Sales,Sales Manager,3370446,3M+ MMK,2022-02-11,Active,No,0,,2,3,Bachelor's,Full-Time
+1394,Htet Thu,Male,38,36-45,13,HR,HR Manager,2940500,2M - 3M MMK,2021-01-19,Active,No,0,,3,3,Bachelor's,Full-Time
+1395,Min Naing,Male,48,46-55,16,Finance,Finance Manager,2609573,2M - 3M MMK,2024-06-20,Active,No,0,,3,2,Diploma,Full-Time
+1396,Zayar Khaing,Male,32,26-35,7,Finance,Finance Analyst,1865379,1M - 2M MMK,2025-06-03,Active,No,0,,4,4,Bachelor's,Full-Time
+1397,Thandar Zaw,Female,26,26-35,3,Sales,Sales Rep,534927,< 1M MMK,2023-06-16,Active,No,0,,3,3,Master's,Full-Time
+1398,Mon Thant,Female,32,26-35,9,Engineering,Software Engineer,1478570,1M - 2M MMK,2021-11-14,Active,No,0,,3,3,Diploma,Full-Time
+1399,Soe Aung,Male,54,46-55,29,HR,HR Payroll Executive,1523087,1M - 2M MMK,2022-05-05,Active,No,0,,2,3,Diploma,Full-Time
+1400,Wai San,Male,43,36-45,13,Operations,Ops Supervisor,1126394,1M - 2M MMK,2023-12-08,Active,No,0,,4,2,Bachelor's,Full-Time
+1401,May Moe,Female,23,18-25,1,HR,HR Assistant,659912,< 1M MMK,2025-09-09,Active,No,0,,1,3,Diploma,Full-Time
+1402,Win Moe,Male,35,26-35,11,Marketing,Marketing Director,4287294,3M+ MMK,2025-09-01,Resigned,Yes,1,2026-09-21,1,4,Master's,Full-Time
+1403,Yin Lwin,Female,39,36-45,14,Engineering,Senior Engineer,3038440,3M+ MMK,2025-02-12,Resigned,Yes,1,2026-01-13,1,3,Master's,Full-Time
+1404,Khin Naing,Female,37,36-45,10,Engineering,Software Engineer,1752717,1M - 2M MMK,2024-02-18,Active,No,0,,3,3,Master's,Full-Time
+1405,Aye Tun,Female,50,46-55,21,Finance,Accountant,1092487,1M - 2M MMK,2023-10-31,Active,No,0,,3,3,Master's,Full-Time
+1406,Aye Myint,Female,58,55+,27,Marketing,Digital Marketing Lead,1780711,1M - 2M MMK,2024-02-28,Active,No,0,,3,4,Master's,Contract
+1407,Phyu Win,Female,41,36-45,14,HR,HR Assistant,746420,< 1M MMK,2024-05-05,Resigned,Yes,1,2025-03-19,1,4,Bachelor's,Full-Time
+1408,Naing Swe,Male,34,26-35,8,Engineering,Software Engineer,1492800,1M - 2M MMK,2023-08-01,Active,No,0,,3,3,Bachelor's,Full-Time
+1409,Wai Oo,Male,32,26-35,7,Engineering,Tech Lead,4616525,3M+ MMK,2022-03-22,Active,No,0,,4,3,Diploma,Full-Time
+1410,Thura Thant,Male,21,18-25,1,Marketing,Digital Marketing Lead,1460928,1M - 2M MMK,2025-07-14,Active,No,0,,2,4,Master's,Contract
+1411,Aye Myint,Female,48,46-55,19,HR,HR Officer,1045518,1M - 2M MMK,2025-10-06,Active,No,0,,3,1,Diploma,Full-Time
+1412,Su Nwe,Female,35,26-35,10,Marketing,Marketing Specialist,905938,< 1M MMK,2024-10-11,Active,No,0,,3,3,Diploma,Full-Time
+1413,Aye Kyaw,Female,34,26-35,8,Operations,Logistics Specialist,804326,< 1M MMK,2021-06-19,Active,No,0,,3,3,Diploma,Full-Time
+1414,Zayar Khaing,Male,24,18-25,2,Engineering,Software Engineer,1713202,1M - 2M MMK,2024-08-28,Active,No,0,,4,3,Bachelor's,Full-Time
+1415,Thet Myint,Male,30,26-35,7,Sales,Sales Rep,469692,< 1M MMK,2023-04-28,Active,No,0,,1,3,Master's,Full-Time
+1416,Yin Htun,Female,40,36-45,12,Engineering,Software Engineer,1686659,1M - 2M MMK,2026-03-08,Active,No,0,,3,4,Bachelor's,Full-Time
+1417,Kyaw Naing,Male,27,26-35,4,Engineering,Software Engineer,1926501,1M - 2M MMK,2025-08-07,Active,No,0,,3,3,Diploma,Full-Time
+1418,Myo Aye,Male,47,46-55,16,Engineering,Senior Engineer,3057824,3M+ MMK,2024-06-29,Active,No,0,,3,1,Diploma,Contract
+1419,Khin Lwin,Female,33,26-35,9,Sales,Senior Sales Rep,782882,< 1M MMK,2022-02-16,Active,No,0,,1,3,Master's,Full-Time
+1420,Win Hlaing,Male,33,26-35,8,HR,HR Assistant,601424,< 1M MMK,2025-12-15,Active,No,0,,3,5,Bachelor's,Contract
+1421,May Thant,Female,23,18-25,1,Engineering,Junior Developer,868721,< 1M MMK,2023-10-23,Active,No,0,,4,3,Master's,Full-Time
+1422,Ko Ko,Male,30,26-35,8,Sales,Account Executive,1434135,1M - 2M MMK,2022-09-12,Active,No,0,,3,4,Diploma,Full-Time
+1423,Hnin Ko,Female,33,26-35,8,Engineering,Senior Engineer,2741071,2M - 3M MMK,2022-12-01,Active,No,0,,4,3,Diploma,Full-Time
+1424,Aye Naing,Female,32,26-35,7,Engineering,Software Engineer,1678820,1M - 2M MMK,2022-10-02,Active,No,0,,3,3,Bachelor's,Full-Time
+1425,Bo Moe,Male,52,46-55,29,Finance,Finance Analyst,1711479,1M - 2M MMK,2026-01-15,Active,No,0,,2,5,Bachelor's,Full-Time
+1426,Yamin Aye,Female,54,46-55,28,Marketing,Content Creator,578668,< 1M MMK,2025-09-16,Active,No,0,,4,4,Master's,Contract
+1427,Wai Htun,Male,58,55+,30,Marketing,Digital Marketing Lead,1525095,1M - 2M MMK,2022-01-20,Resigned,Yes,1,2023-08-01,2,3,Diploma,Full-Time
+1428,Bo Ko,Male,38,36-45,13,Sales,Sales Rep,570424,< 1M MMK,2023-09-04,Resigned,Yes,1,2026-07-16,2,3,Master's,Full-Time
+1429,Zayar Aung,Male,52,46-55,21,Finance,Accountant,911280,< 1M MMK,2025-04-15,Active,No,0,,3,3,Bachelor's,Full-Time
+1430,Win Htun,Male,26,26-35,3,Engineering,Tech Lead,4791158,3M+ MMK,2025-11-11,Active,No,0,,3,1,Diploma,Full-Time
+1431,Soe San,Male,46,46-55,17,Operations,Ops Coordinator,595224,< 1M MMK,2023-07-14,Active,No,0,,3,5,Bachelor's,Full-Time
+1432,Khin Lwin,Female,23,18-25,1,Finance,Finance Analyst,1580765,1M - 2M MMK,2025-12-17,Active,No,0,,3,3,Diploma,Contract
+1433,Naing Nwe,Male,45,36-45,22,Finance,Finance Manager,3333295,3M+ MMK,2023-07-15,Resigned,Yes,1,2025-06-06,2,2,Master's,Full-Time
+1434,Aung Aung,Male,44,36-45,19,Operations,Logistics Specialist,1027558,1M - 2M MMK,2021-07-04,Active,No,0,,4,4,Diploma,Full-Time
+1435,Min Tun,Male,24,18-25,2,Marketing,Marketing Director,3926738,3M+ MMK,2021-06-24,Active,No,0,,4,3,Master's,Full-Time
+1436,Ko San,Male,44,36-45,19,Engineering,Software Engineer,1530789,1M - 2M MMK,2021-10-24,Active,No,0,,3,3,Master's,Full-Time
+1437,Ko Tun,Male,21,18-25,1,Finance,Accountant,901236,< 1M MMK,2025-04-17,Active,No,0,,1,4,Bachelor's,Full-Time
+1438,Bo Khaing,Male,39,36-45,12,Operations,Ops Manager,2531175,2M - 3M MMK,2024-05-16,Active,No,0,,3,3,Diploma,Full-Time
+1439,Myo Lwin,Male,27,26-35,4,Finance,Accountant,919272,< 1M MMK,2022-12-16,Resigned,Yes,1,2023-08-19,3,1,Master's,Contract
+1440,Ko Kyaw,Male,21,18-25,1,Engineering,Software Engineer,1981124,1M - 2M MMK,2025-03-15,Active,No,0,,2,3,Master's,Contract
+1441,Mon Oo,Female,31,26-35,6,Operations,Ops Coordinator,551370,< 1M MMK,2021-10-03,Resigned,Yes,1,2023-10-15,1,2,Diploma,Full-Time
+1442,Zaw Nwe,Male,42,36-45,19,HR,HR Manager,2883564,2M - 3M MMK,2024-05-23,Active,No,0,,3,3,Master's,Full-Time
+1443,Ei Thant,Female,28,26-35,4,Sales,Senior Sales Rep,947751,< 1M MMK,2023-10-14,Active,No,0,,3,4,Bachelor's,Full-Time
+1444,Aung Htun,Male,28,26-35,6,Marketing,Content Creator,694868,< 1M MMK,2022-03-01,Active,No,0,,3,3,Diploma,Full-Time
+1445,Myo Ko,Male,31,26-35,7,Marketing,Marketing Specialist,1084430,1M - 2M MMK,2022-06-06,Active,No,0,,1,3,Master's,Full-Time
+1446,Ei Thant,Female,43,36-45,18,HR,HR Officer,871114,< 1M MMK,2025-09-04,Active,No,0,,4,4,Diploma,Full-Time
+1447,Zayar Htun,Male,34,26-35,9,Engineering,Senior Engineer,2973220,2M - 3M MMK,2025-07-26,Active,No,0,,3,3,Diploma,Full-Time
+1448,Ei San,Female,21,18-25,1,Sales,Sales Rep,619682,< 1M MMK,2022-07-29,Active,No,0,,3,3,Bachelor's,Full-Time
+1449,Hnin Aung,Female,42,36-45,14,Engineering,Junior Developer,1082347,1M - 2M MMK,2025-03-20,Active,No,0,,2,4,Master's,Full-Time
+1450,Wai Moe,Male,25,18-25,3,Engineering,Senior Engineer,2691512,2M - 3M MMK,2023-02-06,Active,No,0,,4,3,Bachelor's,Full-Time
+1451,Mya Nwe,Male,21,18-25,1,Finance,Accountant,1019040,1M - 2M MMK,2023-09-18,Active,No,0,,4,4,Diploma,Full-Time
+1452,Zayar Moe,Male,32,26-35,7,Marketing,Content Creator,636467,< 1M MMK,2025-01-01,Active,No,0,,3,1,Diploma,Contract
+1453,Su Htun,Female,48,46-55,22,HR,HR Assistant,649321,< 1M MMK,2024-09-11,Active,No,0,,2,3,Master's,Full-Time
+1454,Su Htun,Female,36,36-45,9,Marketing,Content Creator,597257,< 1M MMK,2021-11-19,Active,No,0,,3,3,Bachelor's,Full-Time
+1455,Yamin San,Female,35,26-35,11,Sales,Senior Sales Rep,1045625,1M - 2M MMK,2025-07-05,Active,No,0,,3,3,Bachelor's,Full-Time
+1456,Mya Lwin,Male,38,36-45,14,HR,HR Manager,2297074,2M - 3M MMK,2023-05-24,Active,No,0,,4,3,Diploma,Full-Time
+1457,Nilar Hlaing,Female,36,36-45,13,Sales,Account Executive,1660546,1M - 2M MMK,2024-12-31,Active,No,0,,4,3,Bachelor's,Full-Time
+1458,Win Htun,Male,31,26-35,7,HR,HR Manager,2521592,2M - 3M MMK,2024-08-12,Active,No,0,,2,3,Diploma,Full-Time
+1459,Thandar Win,Female,32,26-35,7,Finance,Finance Analyst,1764108,1M - 2M MMK,2025-12-13,Active,No,0,,3,4,Master's,Full-Time
+1460,Nilar Thu,Female,35,26-35,9,Finance,Junior Accountant,677293,< 1M MMK,2025-01-02,Active,No,0,,3,4,Diploma,Full-Time
+1461,Ei Myint,Female,27,26-35,4,Finance,Accountant,1091782,1M - 2M MMK,2023-09-15,Active,No,0,,4,3,Master's,Full-Time
+1462,Tin Aung,Male,47,46-55,20,Marketing,Content Creator,695267,< 1M MMK,2024-12-28,Active,No,0,,3,3,Diploma,Full-Time
+1463,Phyu Aung,Female,22,18-25,1,Sales,Sales Manager,2773088,2M - 3M MMK,2021-08-11,Active,No,0,,3,2,Bachelor's,Full-Time
+1464,Mya Thu,Male,26,26-35,3,Marketing,Content Creator,698986,< 1M MMK,2024-09-15,Resigned,Yes,1,2026-09-09,2,3,Bachelor's,Full-Time
+1465,Su Kyaw,Female,42,36-45,13,Engineering,Senior Engineer,3420131,3M+ MMK,2026-04-03,Active,No,0,,1,5,Master's,Full-Time
+1466,Sandar Kyaw,Female,34,26-35,11,HR,HR Payroll Executive,1579989,1M - 2M MMK,2021-04-19,Resigned,Yes,1,2024-12-05,1,4,Bachelor's,Full-Time
+1467,Naing Thu,Male,23,18-25,1,Operations,Ops Supervisor,1378944,1M - 2M MMK,2023-04-12,Active,No,0,,2,3,Master's,Full-Time
+1468,Zayar Kyaw,Male,31,26-35,6,Marketing,Marketing Specialist,899647,< 1M MMK,2021-05-27,Active,No,0,,4,3,Bachelor's,Full-Time
+1469,Zaw Myint,Male,26,26-35,3,Operations,Ops Manager,2683528,2M - 3M MMK,2023-07-20,Active,No,0,,2,3,Diploma,Full-Time
+1470,Soe Naing,Male,32,26-35,6,Marketing,Digital Marketing Lead,1670069,1M - 2M MMK,2024-01-24,Active,No,0,,1,3,Master's,Full-Time
+1471,May Oo,Female,30,26-35,7,Finance,Finance Analyst,1594091,1M - 2M MMK,2021-06-10,Active,No,0,,3,3,Diploma,Full-Time
+1472,Yin Thu,Female,31,26-35,7,Sales,Sales Rep,608127,< 1M MMK,2024-01-01,Active,No,0,,3,3,Diploma,Full-Time
+1473,Thandar Kyaw,Female,30,26-35,6,Sales,Senior Sales Rep,775509,< 1M MMK,2026-03-06,Active,No,0,,3,3,Diploma,Full-Time
+1474,Wai Thant,Male,48,46-55,24,HR,HR Payroll Executive,1390565,1M - 2M MMK,2021-09-17,Active,No,0,,3,2,Master's,Full-Time
+1475,Htet Ko,Male,40,36-45,16,Marketing,Content Creator,666802,< 1M MMK,2026-02-07,Active,No,0,,3,4,Master's,Full-Time
+1476,Khin Lwin,Female,42,36-45,13,Sales,Sales Rep,619285,< 1M MMK,2024-05-04,Active,No,0,,3,5,Master's,Full-Time
+1477,Phyu Aung,Female,38,36-45,12,Finance,Finance Analyst,1378521,1M - 2M MMK,2022-06-26,Active,No,0,,3,4,Diploma,Full-Time
+1478,Bo Win,Male,38,36-45,11,Operations,Ops Supervisor,1140962,1M - 2M MMK,2025-11-18,Active,No,0,,4,3,Master's,Contract
+1479,Bo Lwin,Male,31,26-35,6,HR,HR Payroll Executive,1605063,1M - 2M MMK,2023-06-04,Active,No,0,,4,3,Diploma,Full-Time
+1480,Thet Naing,Male,29,26-35,5,Marketing,Marketing Specialist,1027884,1M - 2M MMK,2024-10-19,Active,No,0,,3,3,Bachelor's,Full-Time
+1481,Thura Nwe,Male,35,26-35,8,HR,HR Manager,2557576,2M - 3M MMK,2025-01-25,Active,No,0,,4,3,Bachelor's,Contract
+1482,Zaw Tun,Male,36,36-45,13,Marketing,Content Creator,558141,< 1M MMK,2024-05-23,Resigned,Yes,1,2026-09-22,2,4,Bachelor's,Contract
+1483,Naing Aung,Male,40,36-45,14,Sales,Account Executive,1488808,1M - 2M MMK,2026-04-02,Resigned,Yes,1,2026-09-30,3,4,Master's,Full-Time
+1484,Thet Oo,Male,31,26-35,6,Sales,Sales Rep,516989,< 1M MMK,2022-11-13,Active,No,0,,4,2,Bachelor's,Full-Time
+1485,Win Moe,Male,35,26-35,11,Engineering,Tech Lead,4042309,3M+ MMK,2023-10-05,Resigned,Yes,1,2025-10-07,3,4,Bachelor's,Full-Time
+1486,Min Thu,Male,29,26-35,5,Marketing,Digital Marketing Lead,1875252,1M - 2M MMK,2021-02-08,Active,No,0,,3,5,Diploma,Full-Time
+1487,Zayar San,Male,21,18-25,1,Operations,Ops Coordinator,594211,< 1M MMK,2025-04-28,Active,No,0,,4,3,Bachelor's,Full-Time
+1488,Naing Khaing,Male,41,36-45,16,HR,HR Payroll Executive,1321715,1M - 2M MMK,2022-09-13,Active,No,0,,4,2,Diploma,Contract
+1489,Su Oo,Female,46,46-55,17,Operations,Ops Supervisor,1352072,1M - 2M MMK,2021-12-28,Active,No,0,,3,2,Diploma,Full-Time
+1490,Min Htun,Male,32,26-35,7,Marketing,Marketing Specialist,901531,< 1M MMK,2022-01-31,Resigned,Yes,1,2025-11-25,1,4,Diploma,Full-Time
+1491,Yamin Htun,Female,38,36-45,15,HR,HR Assistant,611249,< 1M MMK,2022-11-23,Active,No,0,,3,3,Diploma,Contract
+1492,Yamin Zaw,Female,36,36-45,11,Marketing,Marketing Specialist,1162501,1M - 2M MMK,2021-03-17,Active,No,0,,1,5,Diploma,Full-Time
+1493,Naing Zaw,Male,37,36-45,10,HR,HR Officer,1009288,1M - 2M MMK,2026-01-27,Active,No,0,,3,4,Bachelor's,Full-Time
+1494,Nilar Thant,Female,26,26-35,4,Finance,Junior Accountant,768013,< 1M MMK,2023-05-23,Active,No,0,,3,3,Bachelor's,Contract
+1495,Ei Aye,Female,39,36-45,11,Finance,Finance Analyst,1789124,1M - 2M MMK,2025-06-13,Active,No,0,,3,4,Bachelor's,Full-Time
+1496,Yamin Aung,Female,36,36-45,13,Operations,Logistics Specialist,1040388,1M - 2M MMK,2021-03-25,Resigned,Yes,1,2026-02-27,2,4,Bachelor's,Contract
+1497,Min Ko,Male,41,36-45,17,HR,HR Officer,1101733,1M - 2M MMK,2024-12-18,Active,No,0,,4,3,Bachelor's,Full-Time
+1498,Htet Nwe,Male,29,26-35,4,Operations,Ops Manager,2360973,2M - 3M MMK,2021-12-24,Active,No,0,,2,3,Bachelor's,Full-Time
+1499,Yin Kyaw,Female,56,55+,28,Sales,Sales Manager,2704798,2M - 3M MMK,2022-04-28,Active,No,0,,4,5,Diploma,Full-Time
+1500,Thet Moe,Male,33,26-35,9,Sales,Sales Rep,483900,< 1M MMK,2025-06-20,Resigned,Yes,1,2026-08-16,1,5,Bachelor's,Full-Time
