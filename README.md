@@ -8,7 +8,7 @@
 
 In a modern enterprise with **500 employees** and an annual payroll budget exceeding **10 Billion MMK (~10,251,842,998 MMK)**, leadership lacked centralized, automated visibility into workforce dynamics, compensation structures, and payroll leakage risks.
 
-This project delivers a production-grade **People Analytics & Payroll Intelligence System** integrating **Relational SQL Database Architecture, Automated Python ETL Pipelines, and an Executive Dark-Mode Power BI Dashboard** (benchmarked against international banking dashboards).
+This project delivers a production-grade **People Analytics & Payroll Intelligence System** integrating **Relational SQL Database Architecture, Automated Python ETL Pipelines, and a Modern Executive Light-Theme Power BI Dashboard** (benchmarked against international enterprise banking dashboards).
 
 ---
 
@@ -22,42 +22,42 @@ This project delivers a production-grade **People Analytics & Payroll Intelligen
 
 ```mermaid
 flowchart LR
-    subgraph Layer1["1. Database & Storage Layer"]
-        DB[(hr_payroll.db<br/>SQLite Relational DB)]
-        T1[employees - 500 records]
-        T2[payroll_records - 5,097 txns]
-        T3[attendance_records - 5,097 txns]
+    subgraph S1["1. Database & Storage Layer"]
+        DB[("hr_payroll.db<br/>SQLite Relational DB")]
+        T1["employees (500 records)"]
+        T2["payroll_records (5,097 txns)"]
+        T3["attendance_records (5,097 txns)"]
         DB --- T1
         DB --- T2
         DB --- T3
     end
 
-    subgraph Layer2["2. Automation & ETL Engine"]
-        PY[Python Engine - Pandas]
-        ETL[Star Schema Generator<br/>prepare_powerbi_data.py]
-        AUDIT[SQL Audit Scripts<br/>day03_advanced_analytics.sql]
+    subgraph S2["2. Automation & ETL Engine"]
+        PY["Python Engine (Pandas)"]
+        ETL["Star Schema Generator (prepare_powerbi_data.py)"]
+        AUDIT["SQL Audit Scripts (day03_advanced_analytics.sql)"]
         PY --> ETL
         PY --> AUDIT
     end
 
-    subgraph Layer3["3. Data Warehouse / Star Schema"]
-        DIM[Dim_Employees<br/>Demographics, Status, Department]
-        FACT[Fact_Payroll_History<br/>Monthly Pay, OT, Deductions]
+    subgraph S3["3. Data Warehouse / Star Schema"]
+        DIM["Dim_Employees<br/>Demographics, Status, Department"]
+        FACT["Fact_Payroll_History<br/>Monthly Pay, OT, Deductions"]
         ETL --> DIM
         ETL --> FACT
     end
 
-    subgraph Layer4["4. Executive Intelligence"]
-        PBI[Power BI Desktop<br/>HR Dashboard.pbix]
-        KPI[Top KPI Cards<br/>10bn Payroll | 406 Headcount | 18.8% Attrition]
-        VIZ[Interactive Charts<br/>12-Mo Trend | Gender Donut | Dept Bar | Matrix]
+    subgraph S4["4. Executive Intelligence"]
+        PBI["Power BI Desktop (HR Dashboard.pbix)"]
+        KPI["Top KPI Cards - Headcount, Payroll, Attrition"]
+        VIZ["Interactive Visual Charts & Matrix Tables"]
         DIM --> PBI
         FACT --> PBI
         PBI --> KPI
         PBI --> VIZ
     end
 
-    Layer1 -->|Direct Query & JOINs| Layer2
+    DB --> PY
 ```
 
 ---
